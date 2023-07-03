@@ -1,0 +1,10 @@
+{
+	"client_config": {
+		"url_launcher": "https://samp-mobile.online/launcher/launcher.apk",
+		"version_launcher": "3.7",
+		"version_code" : 52,
+		"space_available": 3072,
+		"url_cache": "https://samp-mobile.online/launcher/files.zip",
+		"url_cache_files": "https://samp-mobile.online/launcher/files.php"
+	}
+}
